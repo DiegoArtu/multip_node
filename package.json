@@ -1,0 +1,18 @@
+{
+  "name": "multip_node",
+  "version": "1.0.0",
+  "description": "tablas de multiplicar por consola",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DartCodes",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
